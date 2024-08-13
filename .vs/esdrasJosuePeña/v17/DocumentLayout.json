@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\esdrasJosuePe\u00F1a\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B86A6C50-2F28-4406-A58B-1310A16D9474}|Examen I Programacion II\\Examen I Programacion II.csproj|c:\\users\\esdra\\desktop\\university\\2024\\q3-2024\\programacion ii\\esdrasjosuepe\u00F1a\\examen i programacion ii\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B86A6C50-2F28-4406-A58B-1310A16D9474}|Examen I Programacion II\\Examen I Programacion II.csproj|solutionrelative:examen i programacion ii\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B86A6C50-2F28-4406-A58B-1310A16D9474}|Examen I Programacion II\\Examen I Programacion II.csproj|c:\\users\\esdra\\desktop\\university\\2024\\q3-2024\\programacion ii\\esdrasjosuepe\u00F1a\\examen i programacion ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B86A6C50-2F28-4406-A58B-1310A16D9474}|Examen I Programacion II\\Examen I Programacion II.csproj|solutionrelative:examen i programacion ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86A6C50-2F28-4406-A58B-1310A16D9474}|Examen I Programacion II\\Examen I Programacion II.csproj|c:\\users\\esdra\\desktop\\university\\2024\\q3-2024\\programacion ii\\esdrasjosuepe\u00F1a\\examen i programacion ii\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86A6C50-2F28-4406-A58B-1310A16D9474}|Examen I Programacion II\\Examen I Programacion II.csproj|solutionrelative:examen i programacion ii\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86A6C50-2F28-4406-A58B-1310A16D9474}|Examen I Programacion II\\Examen I Programacion II.csproj|c:\\users\\esdra\\desktop\\university\\2024\\q3-2024\\programacion ii\\esdrasjosuepe\u00F1a\\examen i programacion ii\\iasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86A6C50-2F28-4406-A58B-1310A16D9474}|Examen I Programacion II\\Examen I Programacion II.csproj|solutionrelative:examen i programacion ii\\iasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86A6C50-2F28-4406-A58B-1310A16D9474}|Examen I Programacion II\\Examen I Programacion II.csproj|c:\\users\\esdra\\desktop\\university\\2024\\q3-2024\\programacion ii\\esdrasjosuepe\u00F1a\\examen i programacion ii\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86A6C50-2F28-4406-A58B-1310A16D9474}|Examen I Programacion II\\Examen I Programacion II.csproj|solutionrelative:examen i programacion ii\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\esdrasJosuePe\u00F1a\\Examen I Programacion II\\Asignatura.cs",
+              "RelativeDocumentMoniker": "Examen I Programacion II\\Asignatura.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\esdrasJosuePe\u00F1a\\Examen I Programacion II\\Asignatura.cs",
+              "RelativeToolTip": "Examen I Programacion II\\Asignatura.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:11:47.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAsignatura.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\esdrasJosuePe\u00F1a\\Examen I Programacion II\\IAsignatura.cs",
+              "RelativeDocumentMoniker": "Examen I Programacion II\\IAsignatura.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\esdrasJosuePe\u00F1a\\Examen I Programacion II\\IAsignatura.cs",
+              "RelativeToolTip": "Examen I Programacion II\\IAsignatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:07:58.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Alumno.cs",
               "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\esdrasJosuePe\u00F1a\\Examen I Programacion II\\Alumno.cs",
               "RelativeDocumentMoniker": "Examen I Programacion II\\Alumno.cs",
@@ -35,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\esdrasJosuePe\u00F1a\\Examen I Programacion II\\Program.cs",
               "RelativeDocumentMoniker": "Examen I Programacion II\\Program.cs",
               "ToolTip": "C:\\Users\\esdra\\Desktop\\University\\2024\\Q3-2024\\Programacion II\\esdrasJosuePe\u00F1a\\Examen I Programacion II\\Program.cs",
               "RelativeToolTip": "Examen I Programacion II\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T01:48:52.72Z",
               "EditorCaption": ""

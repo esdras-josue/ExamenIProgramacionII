@@ -1,0 +1,15 @@
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\esdrasJosuePeña\Examen I Programacion II\bin\Debug\net8.0\Examen I Programacion II.exe
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\esdrasJosuePeña\Examen I Programacion II\bin\Debug\net8.0\Examen I Programacion II.deps.json
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\esdrasJosuePeña\Examen I Programacion II\bin\Debug\net8.0\Examen I Programacion II.runtimeconfig.json
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\esdrasJosuePeña\Examen I Programacion II\bin\Debug\net8.0\Examen I Programacion II.dll
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\esdrasJosuePeña\Examen I Programacion II\bin\Debug\net8.0\Examen I Programacion II.pdb
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\esdrasJosuePeña\Examen I Programacion II\obj\Debug\net8.0\Examen I Programacion II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\esdrasJosuePeña\Examen I Programacion II\obj\Debug\net8.0\Examen I Programacion II.AssemblyInfoInputs.cache
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\esdrasJosuePeña\Examen I Programacion II\obj\Debug\net8.0\Examen I Programacion II.AssemblyInfo.cs
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\esdrasJosuePeña\Examen I Programacion II\obj\Debug\net8.0\Examen I Programacion II.csproj.CoreCompileInputs.cache
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\esdrasJosuePeña\Examen I Programacion II\obj\Debug\net8.0\Examen I Programacion II.sourcelink.json
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\esdrasJosuePeña\Examen I Programacion II\obj\Debug\net8.0\Examen I Programacion II.dll
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\esdrasJosuePeña\Examen I Programacion II\obj\Debug\net8.0\refint\Examen I Programacion II.dll
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\esdrasJosuePeña\Examen I Programacion II\obj\Debug\net8.0\Examen I Programacion II.pdb
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\esdrasJosuePeña\Examen I Programacion II\obj\Debug\net8.0\Examen I Programacion II.genruntimeconfig.cache
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\esdrasJosuePeña\Examen I Programacion II\obj\Debug\net8.0\ref\Examen I Programacion II.dll
